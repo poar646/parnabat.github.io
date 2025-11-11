@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
+---
 
 > Benvinguts al meu blog! Aquí compartiré tutorials i projectes.
 
@@ -15,5 +15,3 @@ layout: home
 | Posts de prova     | Creat          |
 | Publicació GitHub  | Pendents       |
 
-
----
