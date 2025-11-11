@@ -9,6 +9,8 @@ permalink: /serveis/
 A la nostra empresa oferim solucions completes per protegir la vostra infraestructura digital. A continuació trobareu els nostres serveis principals:
 
 ## 1. Auditoria de seguretat i pentesting
+
+![Auditoria de seguretat](https://gow.tech/content/images/2023/11/Auditoria-Informatica.png)
 Realitzem auditories completes i proves d’intrusió (pentesting) per identificar vulnerabilitats en els vostres sistemes abans que ho facin els atacants. El nostre equip utilitza les últimes eines i metodologies per assegurar la màxima protecció.
 [Descobreix més sobre l’auditoria](https://polarnabat.com)
 
