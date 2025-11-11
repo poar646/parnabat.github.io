@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Com protegir la teva empresa davant de ransomwares"
+date: 2025-11-11
+categories: blog
+---
+
+![Ciberseguretat](https://www.incibe.es/sites/default/files/images/ransomware/cabecera-ransomeware.png)
+
+Els **ransomwares** són programes maliciosos que xifren els arxius de la teva empresa i demanen un rescat per recuperar-los. És una de les amenaces més comunes actualment.  
+
+## 1. Bones pràctiques per prevenir ransomware
+
+- **Còpies de seguretat regulars:** Mantingues backups fora de línia.
+- **Actualitzacions constants:** Sistemes i aplicacions sempre actualitzades.
+- **Formació del personal:** Evitar clicar en enllaços sospitosos o descarregar arxius desconeguts.
+
+## 2. Detectar una infecció
+
+Els signes habituals inclouen:
+
+1. Arxius amb extensions desconegudes.
+2. Missatges de rescat en pantalla.
+3. Rendiment lent del sistema sense raó aparent.
+
+## 3. Com reaccionar
+
+Si sospites d’un atac de ransomware:
+
+```bash
+# Exemple: desconnectar el sistema infectat
+sudo ifconfig eth0 down
+```
