@@ -5,13 +5,13 @@
 layout: home
 ---
 
-> Benvinguts al meu blog! Aquí compartiré tutorials i projectes.
+> Benvinguts al blog de Pol Arnabat! Aquí compartiré tutorials i projectes.
 
 
 | Funcionalitat      | Estat          |
 |-------------------|----------------|
-| Tema Minima        | Actiu          |
-| Markdown           | Totalment      |
-| Posts de prova     | Creat          |
-| Publicació GitHub  | Pendents       |
+| Punt 1        | Acabat          |
+| Punt 2           | Acabat      |
+| Punt 3     | A la meitat          |
+| Punt 4  | Pendents       |
 
